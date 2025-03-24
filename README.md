@@ -2,12 +2,14 @@ Markov Chain Text Generator
 This is a simple Flask-based web application that generates random text using a Markov chain model. The application takes a sample text input from the user, builds a Markov chain, and generates a sequence of words based on probabilistic transitions.
 
 Features
+
 ✅ Build a Markov chain from user-provided text
 ✅ Generate random text based on the learned Markov model
 ✅ Customizable text length for generated output
 ✅ Simple web interface built with Flask
 
 Tech Stack
+
 Python
 
 Flask
