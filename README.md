@@ -3,10 +3,10 @@ This is a simple Flask-based web application that generates random text using a 
 
 Features
 
-✅ Build a Markov chain from user-provided text
-✅ Generate random text based on the learned Markov model
-✅ Customizable text length for generated output
-✅ Simple web interface built with Flask
+1. Build a Markov chain from user-provided text
+2. Generate random text based on the learned Markov model
+3. Customizable text length for generated output
+4. Simple web interface built with Flask
 
 Tech Stack
 
